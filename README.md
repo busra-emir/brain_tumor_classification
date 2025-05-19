@@ -24,7 +24,7 @@ I explained the idea of training a deep learning vision model which is ResNet ve
 
 Hugging Face Spaces: https://busra-emir-brain-tumor-classification
 
-Medium Blog Post: 
+Medium Blog Post: https://medium.com/@busraemir55/brain-tumor-classification-with-deep-learning-and-fastai-4ee60eaf19b6
 
 Kaggle Dataset: https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256
 
