@@ -22,7 +22,7 @@ Here, my decision making map to get the last version of the model:
 
 I explained the idea of training a deep learning vision model which is ResNet versions in this case with various transfer learning techniques. How I decided to take those steps like epoch number, learning rate decisions? What was my benchmark to process the next step? I explained in depth the perspective of transfer learning of a vision model in my medium blog post. You may observe the process in a detailed way from blog and experience the model using Hugging Face Spaces link.
 
-Hugging Face Spaces: https://busra-emir-brain-tumor-classification.hf.space/?__theme=system&deep_link=fyHmdYbVHDI 
+Hugging Face Spaces: https://busra-emir-brain-tumor-classification
 
 Medium Blog Post: 
 
