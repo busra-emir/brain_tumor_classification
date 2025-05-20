@@ -10,11 +10,11 @@ Here, my decision making map to get the last version of the model:
 #### 4. Batch Observation
 #### 5. Model Training Process with Transfer Learning
 ##### 5.1 Benchmark Creation
-##### 5.2 Fine Tune with Freezing Layers
+##### 5.2 Fine Tune with Frozen Layers
 ##### 5.3 Learning Rate Finder
 ##### 5.4 Fine Tuning with Decided Learning Rate
-##### 5.5 Fit One Cycle with Unfreezing Frozen Layers
-##### 5.6 Discriminative Learning Rates
+##### 5.5 Fit One Cycle and Unfreezing
+##### 5.6 Discriminative Learning Rates Usage
 #### 6. Finding Best Threshold and Testing
 #### 7. Exporting The Trained Model
 #### 8. ResNet18 and Resnet50 Comparison
