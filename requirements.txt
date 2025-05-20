@@ -1,0 +1,8 @@
+fastai==2.7.19
+fastcore==1.5.29
+torch
+torchvision
+gradio
+scikit-learn
+Pillow
+numpy
