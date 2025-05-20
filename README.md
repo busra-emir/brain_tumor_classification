@@ -4,21 +4,18 @@ In this project, a brain tumor dataset including 3 types of tumors that are glio
 Of course, deciding the topic to work on it and choosing a dataset appropriate to the aim is not enough to achieve a well performance model. The examining and processing the dataset is an indispensable part of starting to get the desired model.
 Here, my decision making map to get the last version of the model:
 
-#### 1. Data Loading
-#### 2. Data Splitting
-#### 3. Data Block Creation
-#### 4. Batch Observation
-#### 5. Model Training Process with Transfer Learning
-##### 5.1 Benchmark Creation
-##### 5.2 Fine Tune with Frozen Layers
-##### 5.3 Learning Rate Finder
-##### 5.4 Fine Tuning with Decided Learning Rate
-##### 5.5 Fit One Cycle and Unfreezing
-##### 5.6 Discriminative Learning Rates Usage
-#### 6. Finding Best Threshold and Testing
-#### 7. Exporting The Trained Model
-#### 8. ResNet18 and Resnet50 Comparison
-#### 9. Gradio Application Example Predictions
+#### 1. Data Loading & Data Splitting
+#### 2. Data Block Creation & Batch Observation
+#### 3. Model Training Process with Transfer Learning
+##### 3.1 Benchmark Creation
+##### 3.2 Fine Tune with Frozen Layers
+##### 3.3 Learning Rate Finder
+##### 3.4 Fine Tuning with Decided Learning Rate
+##### 3.5 Fit One Cycle and Unfreezing
+##### 3.6 Discriminative Learning Rates Usage
+#### 4. Finding Best Threshold and Testing
+#### 5. ResNet18 and Resnet50 Comparison
+#### 6. Gradio Application Example Predictions
 
 I explained the idea of training a deep learning vision model which is ResNet versions in this case with various transfer learning techniques. How I decided to take those steps like epoch number, learning rate decisions? What was my benchmark to process the next step? I explained in depth the perspective of transfer learning of a vision model in my medium blog post. You may observe the process in a detailed way from blog and experience the model using Hugging Face Spaces link.
 
